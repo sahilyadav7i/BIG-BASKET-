@@ -1,1 +1,1 @@
-# BIG-BASKET-
+The Big Basket E-commerce dataset provides valuable insights into India's leading online grocery store's product range, sales trends, and customer feedback. With ten key attributes, this dataset offers a thorough understanding of Big Basket's operational metrics, pricing strategies, and customer preferences. This exploratory data analysis (EDA) seeks to reveal patterns, trends, and insights that can guide strategic decisions, improve inventory management, and enhance the overall shopping experience for customers.
